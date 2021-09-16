@@ -1,5 +1,5 @@
 # Today I Learned!!
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 * 좋은 습관을 만들기 위해서 , 열심히 개발 공부를 하기 위해서 <ins>**TIL 보관소**</ins>를 만들었습니다.
 * 삽질도 좋다~ 고민하고 또 고민해서 해결하자!😉
 
