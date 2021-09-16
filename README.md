@@ -17,8 +17,9 @@
 
 
 ## 카테고리
-### git
+### Markdown
+### Git
 ### HTML/CSS
-### JAVASCRIPT
+### Javascript
 ### React.js
 ### Etc
