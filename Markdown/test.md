@@ -37,3 +37,5 @@
   * 지금은 단점이 더 많지만 아직 내가 못 찾은 장점들이 많을 것이다. 
 
 * 참고 사이트 : [git add-commit-push](https://corinediary.tistory.com/2)와 [github personal access token](https://curryyou.tistory.com/344)를 참조해서 가능했음.
+
+* git push error 참고 사이트 : [by감토끼](https://gamtoggi.tistory.com/83)
