@@ -17,7 +17,7 @@
   #### 장점
 
   * **읽기 쉽다.**
-    마크다운은 상당히 간단하다. 제목에는 앞에 #을 붙여주면 되고,  글자를 강조하려면 앞뒤로 ****를 붙여주기만 하면 된다. 정말 쉽다. 문법이 너무 간단해서  작성하면서 어떤 디자인으로 만들어질지 예측이 되기도 한다. 나는 초보라  VScode에 HTML을 작성할 때는 모양이 예측이 되진 않았다. 
+    마크다운은 상당히 간단하다. 제목에는 앞에 #을 붙여주면 되고,  글자를 강조하려면 앞뒤로 ****를 붙여주기만 하면 된다. 정말 쉽다. 문법이 너무 간단해서  작성하면서 어떤 디자인으로 만들어질지 예측이 되기도 한다. 반면에 VScode에 HTML을 작성할 때는 디자인이 예측이 되진 않았다. 그렇다 나는 초보다.
 
   **도움되는 에디터**: 1. [Typora](https://typora.io/) 2. [Notion](https://www.notion.so/ko-kr) 3. [Etc]([Editor.md - Open source online Markdown editor. (pandao.github.io)](https://pandao.github.io/editor.md/en.html))
 
