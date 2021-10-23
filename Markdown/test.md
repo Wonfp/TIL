@@ -44,7 +44,7 @@
 
 ***
 
-***
+
 
 
 
@@ -55,8 +55,8 @@
 ***
 
 * 정의 : Markup언어는 **태그(tag)를** 이용하여 데이터(text등등..)의 구조에 의미를 부여하는 언어이다. 일반적으로는 데이터를 기술하는 정도로만 사용하기 때문에 프로그래밍 언어와는 구분된다.
-  마크업 랭귀지는 '표시하다'를 의미하는 Markup과 '언어'라는 의미를 가진 language가 합쳐진 것입니다.
-  **★참고사이트**:  [Markup](https://brunch.co.kr/@coveryou/14#comment)
+  마크업 랭귀지는 '표시하다'를 의미하는 Markup과 '언어'라는 의미를 가진 language가 합쳐진 것입니다.   
+  **★참고사이트**:  [Markup](https://brunch.co.kr/@coveryou/14#comment) 
 
 * markup 이란?
 
