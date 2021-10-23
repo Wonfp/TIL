@@ -20,10 +20,10 @@
 ## 카테고리
 ### Markdown
 
-* [Markdown과 Markup에 대해서 알아보자.](https://github.com/Wonfp/TIL/blob/main/Markdown/test.md)  <ins>**수정필요**</ins>
+* [Markdown과 Markup에 대해서 알아보자.](https://github.com/Wonfp/TIL/blob/main/Markdown/test.md)  
 
 ### Git
-### HTML/CSS
+### CSS
 ### Javascript
 ### React.js
 ### Etc
